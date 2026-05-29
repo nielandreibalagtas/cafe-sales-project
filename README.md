@@ -99,4 +99,4 @@ The most critical operational issue flagged is the POS system anomaly: unknown a
 **Niel Andrei Balagtas**
 - 📧 nielandreibalagtas@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/niel-andrei-balagtas-360442379/)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🐙 [GitHub](https://github.com/nielandreibalagtas)
