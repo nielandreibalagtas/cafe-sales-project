@@ -68,11 +68,12 @@ Built an interactive dashboard using the cleaned dataset with:
 
 | File | Description |
 |------|-------------|
-| `Data_Cleaning.sql` | MySQL script for staging, cleaning, and type conversion |
-| `EDA_cafe.sql` | MySQL script for all exploratory analysis queries |
-| `cafe_sales_cleaned.csv` | Cleaned dataset exported after SQL cleaning |
-| `cafe_sales_dashboard.pbix` | Power BI dashboard file |
-| `documentation.pdf` | Full project write-up and documentation |
+| `Data Cleaning.sql` | MySQL script managing table configurations, cleansing routines, and data transformations |
+| `EDA_cafe.sql` | Master SQL query script housing exploratory intelligence questions and rolling totals |
+| `cafe_sales_cleaned.csv` | Cleaned production-ready output file generated after running SQL transformations |
+| `CAFE DASHBOARD.pbix` | Main Power BI workbook file containing data models, canvas reports, and active visuals |
+| `Balagtas, Niel_Cafe Sales Documentation.pdf` | Detailed engineering write-up documenting methodology, architecture, and complete project breakdowns |
+| `cafe-dashboard-screenshot.png` | Main interface screen capture focusing on the operational overview metrics |
 
 ---
 
@@ -100,3 +101,5 @@ The most critical operational issue flagged is the POS system anomaly: unknown a
 - 📧 nielandreibalagtas@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/niel-andrei-balagtas-360442379/)
 - 🐙 [GitHub](https://github.com/nielandreibalagtas)
+
+---
