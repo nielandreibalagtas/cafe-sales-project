@@ -78,7 +78,7 @@ Built an interactive dashboard using the cleaned dataset with:
 
 ## 📊 Dashboard Preview
 
-![Café Sales Dashboard](CAFE SALES DASHBOARD SCREENSHOT.png)
+![Café Sales Dashboard](cafe-dashboard-screenshot.png)
 
 ---
 
